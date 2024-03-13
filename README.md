@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GKB-Ninja, name's Gökhan Koray Bülbül.
+- 👀 I’m interested in being interested of random topics.
+- 🌱 I’m currently learning Python, C#, SQL, HTML5 and CSS.
+- 💞️ I’m looking to collaborate on "Application translations", "Game developments", "Physics based algorithm developments"...
+- 📫 2311404058@ogr.mehmetakif.edu.tr
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've tried MANY things yet they remained private.
